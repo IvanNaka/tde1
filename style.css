@@ -70,6 +70,7 @@ body{
 
 .texts h2{
     margin-top: 10px;
+    
 }
 
 .footer-text {
@@ -81,4 +82,12 @@ body{
     text-align: center;
     margin-bottom: 0px;
     font-weight: bold;
+}
+
+.acessibiliadade-web {
+    text-align: center;
+}
+img {
+    width: 40%;
+    height: 70%;
 }
